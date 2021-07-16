@@ -13,6 +13,7 @@ Part-2 CSS Structure
 - Set container background color and margin
 - Define others color-size-padding etc...
  <br>
+ 
 Part-3 JS Structure
 - Create code for To-Do App : User should create, delete and mark tasks as them
 done or undone.
