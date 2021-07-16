@@ -8,13 +8,13 @@ Part-1 HTML Structure
 - Give name of your project (title)
 - Create the main structur of the HTML
  <br>
-Part-2 CSS Structure
+Part-2 CSS Structure <br>
 - Set a background and define font-color="white"
 - Set container background color and margin
 - Define others color-size-padding etc...
 
  <br>
  
-Part-3 JS Structure
+Part-3 JS Structure <br>
 - Create code for To-Do App : User should create, delete and mark tasks as them
 done or undone.
