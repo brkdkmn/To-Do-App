@@ -12,6 +12,7 @@ Part-2 CSS Structure
 - Set a background and define font-color="white"
 - Set container background color and margin
 - Define others color-size-padding etc...
+
  <br>
  
 Part-3 JS Structure
